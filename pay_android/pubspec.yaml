@@ -68,7 +68,10 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   pay_platform_interface:
-    path: ../pay_platform_interface
+    git:
+      url: https://github.com/fergushowe/flutter-pay
+      ref: main
+      path: pay_platform_interface
   flutter_svg: ^1.0.0
 
 dev_dependencies:
