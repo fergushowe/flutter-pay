@@ -126,7 +126,7 @@ class RawGooglePayButton extends StatelessWidget {
       highlightElevation: 0,
       onPressed: onPressed,
       shape: RoundedRectangleBorder(
-        borderRadius: BorderRadius.circular(24),
+        borderRadius: BorderRadius.circular(5),
         side: const BorderSide(
           color: Color(0xFF747775),
           width: 1,
