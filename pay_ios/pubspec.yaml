@@ -32,7 +32,7 @@ dependencies:
     sdk: flutter
   pay_platform_interface:
     git:
-      url: https://github.com/fergushowe/flutter-pay
+      url: https://github.com/spideronline/flutter-pay
       ref: main
       path: pay_platform_interface
 
