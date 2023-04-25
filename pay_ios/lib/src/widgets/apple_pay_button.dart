@@ -76,7 +76,7 @@ class RawApplePayButton extends StatelessWidget {
   static const double minimumButonWidth = 100;
 
   /// The default height for the Apple Pay Button.
-  static const double minimumButtonHeight = 30;
+  static const double minimumButtonHeight = 48;
 
   /// The constraints used to limit the size of the button.
   final BoxConstraints constraints;
